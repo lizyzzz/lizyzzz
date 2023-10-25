@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:lizyzzz?theme=rule34">
 
-## HomePage - 个人简介(lizyzzz)
+## lizyzzz - HomePage - 个人简介
 
 热爱软开、热爱代码、热爱技术。中山大学(SYSU)在校硕士研究生。喜欢阅读一些优秀的开源项目并尝试复现并做适当的改进。
 
