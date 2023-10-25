@@ -9,12 +9,12 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
+-   <a href="https://github.com/lizyzzz"><code><img height="80" width="100" src="./images/github.png"></code></a>：github主页，开源项目以及学习笔记。
 
 ### **技术栈:**
 
-* 一个 C/C++/Golang 开发者, C/C++ 代码量约 3.5w 行, Golang 代码量约 5k 行
-* 后端开发常用技术栈：MySQL, Redis, Docker, Git 均熟练掌握
+* C/C++/Golang 开发者, C/C++ 代码量约 3.5w 行, Golang 代码量约 5k 行。
+* 后端开发常用技术栈：MySQL, Redis, Docker, Git 均熟练掌握。
 
 ### 开源项目
 
