@@ -13,7 +13,7 @@
 
 ### **技术栈:**
 
-* C/C++/Golang 开发者, C/C++ 代码量约 3.5w 行, Golang 代码量约 5k 行。
+* C/C++/Golang 开发者, C/C++ 代码量约 3.5w 行, Golang 代码量约 1w 行。
 * 后端开发常用技术栈：MySQL, Redis, Docker, Git 均熟练掌握。
 
 ### 开源项目
