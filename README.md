@@ -2,7 +2,7 @@
 
 ## lizyzzz - HomePage - 个人简介
 
-热爱软开、热爱代码、热爱技术。中山大学(SYSU)在校硕士研究生。喜欢阅读一些优秀的开源项目并尝试复现并做适当的改进。
+热爱软开、热爱代码、热爱技术。中山大学(SYSU)硕士研究生毕业，现国内头部互联网游戏服务器后端开发。喜欢阅读一些优秀的开源项目并尝试复现并做适当的改进。
 
 ### **社交主页：**
 
@@ -15,19 +15,6 @@
 
 * C/C++/Golang 开发者, C/C++ 代码量约 3.5w 行, Golang 代码量约 1w 行。
 * 后端开发常用技术栈：MySQL, Redis, Docker, Git 均熟练掌握。
-
-### 开源项目
-
-[![](https://github.com/lizyzzz/lizyzzz/blob/main/images/log.png)](https://github.com/lizyzzz/lizy_log)  
-<br>
-[![](https://github.com/lizyzzz/lizyzzz/blob/main/images/webserver.png)](https://github.com/lizyzzz/lizy-WebServer)  
-<br>
-[![](https://github.com/lizyzzz/lizyzzz/blob/main/images/chatroom.png)](https://github.com/lizyzzz/ChatRoom)  
-<br>
-[![](https://github.com/lizyzzz/lizyzzz/blob/main/images/stl.png)](https://github.com/lizyzzz/liziyuan_STL)  
-<br>
-[![](https://github.com/lizyzzz/lizyzzz/blob/main/images/learngolang.png)](https://github.com/lizyzzz/LearnGolang)  
-<br><br>
 
 ### Github 活跃度
 
