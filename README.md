@@ -6,10 +6,10 @@
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+ <img align="right" alt="GIF" src="./images/code.gif" width="230" height="150%" />
 
 
--   <a href="https://github.com/lizyzzz"><code><img height="400" width="100" src="./images/github.png"></code></a>：github主页，开源项目以及学习笔记。
+- github主页，开源项目以及学习笔记。
 
 ### **技术栈:**
 
